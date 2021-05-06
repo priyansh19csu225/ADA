@@ -31,7 +31,7 @@ public class lab1 {
 		startTime = System.currentTimeMillis();
 		selection_sort(arr1);
 		endTime = System.currentTimeMillis();
-		elapsedTime = endTime - startTime;
+		elapsedTime = endTime - startTime; 
 //		print(arr1);
 		System.out.println();
 	    System.out.println("Time elapsed by selection sort : " + elapsedTime + " milliseconds");

@@ -52,7 +52,7 @@ public class midtermpractical
   
      public static void main(String[] args)
      {
-    	// Count 45 = 10 , 76 = 10 , 187 = 15 ,  231 = 10 , 512 = 3
+    	// Count 45 = 10 , 76 = 10 , 187 = 15 ,  231 = 10 , 512 = 3 
          int[] arr = {76,231,187,512,45,45,187,231,512,76,187,512};
          
          //print initial array

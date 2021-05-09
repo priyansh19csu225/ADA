@@ -1,4 +1,4 @@
-public class NQUEEN {
+public class lab10 {
 	public final static int N = 8;
 	public static int[] x = new int[N + 1];
 	public static boolean place(int k) {

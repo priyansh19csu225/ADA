@@ -1,4 +1,4 @@
-public class HamiltonianCycle
+public class lab11
 {
 	final int V = 5;
 	int path[];
@@ -75,8 +75,8 @@ public class HamiltonianCycle
 
 	public static void main(String args[])
 	{
-		HamiltonianCycle hamiltonian =
-								new HamiltonianCycle();
+		lab11 hamiltonian =
+								new lab11();
 		int graph[][] = {{0, 1, 0, 1, 0},
 			{1, 0, 1, 1, 1},
 			{0, 1, 0, 0, 1},

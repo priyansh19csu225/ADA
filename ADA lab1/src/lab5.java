@@ -27,7 +27,7 @@ public class lab5 {
 		             u= v; 
 		         } 
  
-	         mstSet[u]=true; 
+	         mstSet[u]= true; 
 
 	         for (int v = 0; v < V; v++) 
 	             if (graph[u][v]!=0 && mstSet[v]==false && graph[u][v]<key[v]) //smallest key vert not in mst set

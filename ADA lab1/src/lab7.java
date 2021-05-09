@@ -29,7 +29,7 @@ public class lab7 {
     void dijkstra(int graph[][], int src) 
     { 
         int dist[] = new int[V]; 
-        Boolean sptSet[] = new Boolean[V]; 
+        Boolean sptSet[] =  new Boolean[V]; 
   
         
         for (int i = 0; i < V; i++) { 

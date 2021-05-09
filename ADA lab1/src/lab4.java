@@ -30,7 +30,7 @@ public class lab4 {
 
 
 
-    private static double getMaxValue(int[] wt, int[] val,
+    private static double getMaxValue(int[]  wt, int[] val,
                                       int capacity)
     {
         ItemValue[] iVal = new ItemValue[wt.length];

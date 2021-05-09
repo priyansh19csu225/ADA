@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class practicalrev
+public class midtermpractical
  {
   
      // using the counting sort algorithm

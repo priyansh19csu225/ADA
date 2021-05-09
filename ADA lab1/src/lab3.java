@@ -30,7 +30,7 @@ public class lab3 {
     } 
     
     
-    static void sort(int arr[], int low, int high) 
+    static void sort(int arr[], int low,  int high) 
     { 
         if (low < high) 
         { 

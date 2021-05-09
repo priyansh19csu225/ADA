@@ -32,7 +32,7 @@ public class lab9 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 {
-		        int Pr[] = new int[] {12,7,16,20};
+		        int Pr[] =  new int[] {12,7,16,20};
 		        int wt[] = new int[] {4,3,6,2};
 		        int cap = 12;
 		        

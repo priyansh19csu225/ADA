@@ -91,7 +91,7 @@ private static void selection_sort(int[] arr) {
 		}
 		int temp = arr[pos];
 		arr[pos] = arr[i];
-		arr[i] = temp;
+		arr[i] = temp; 
 	}
 	
 }
